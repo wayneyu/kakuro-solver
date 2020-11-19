@@ -1,0 +1,4 @@
+package kakuro
+
+object Solver{
+}
